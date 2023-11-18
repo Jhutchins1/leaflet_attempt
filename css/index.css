@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box; 
+    font-size: 100%; 
+}
+
+* {
+    box-sizing: inherit; 
+}
+
+header {
+    padding: 1rem;
+}
+
+
+body {
+    text-align: center; 
+    line-height: 1.5; 
+    margin: 0; 
+    background: linear-gradient(to right, #4BBFD6, #58DEFA, #3D9BAD, #2E7685); 
+    font-size: 115%; 
+}
+
+#art2 { 
+    max-width: 750px;
+    margin: auto;
+}
+
+p {
+    border: 2px solid #999; 
+    background: #fff;
+}
+
+
+
+
+#map {
+    height: 600px; 
+    width: 100%; 
+    border: 2px solid #999; 
+}
